@@ -1,4 +1,4 @@
 # first.demo
 This my first repository.
 <br>
-Author - vanshika gupta
+Author - vanshika (Apna college)
